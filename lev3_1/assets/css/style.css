@@ -1,0 +1,6 @@
+section{
+  /* background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip   bg-attachment initial|inherit; */
+    
+    background: green url('https://source.unsplash.com/random') no-repeat center padding-box;
+
+}
